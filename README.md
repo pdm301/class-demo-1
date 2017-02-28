@@ -20,10 +20,6 @@ Eckhart Tolle
 
 **You are _most_ welcome here.**
 
-* Item
-* Item
-* Item
-
 - Item
 - Item
 - Item
