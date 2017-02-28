@@ -1,6 +1,6 @@
-# The largest heading (an h1 tag)
-## The second largest heading
-### The third largest heading
+# Top-level heading
+## Subheading
+### Subheading of subheading
 
 Underlined h1
 =============
